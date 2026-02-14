@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <title>AlexPersonalTrainer v4.0 – Web AI</title>
+    <title>AlexPersonalTrainer v4.0 – Web AI</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
